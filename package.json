@@ -1,7 +1,7 @@
 {
   "name": "@modaautomatic/moda-shade",
-  "version": "0.0.1",
-  "description": "Integration of Moda Shade into Moda Box",
+  "version": "0.0.2",
+  "description": "Moda Shade integration for Moda Box.",
   "main": "index.js",
   "author": "Zach Caldwell <zach.j.caldwell@gmail.com>",
   "license": "UNLICENSED",
