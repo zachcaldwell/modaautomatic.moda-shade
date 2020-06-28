@@ -1,0 +1,21 @@
+{
+    "v": "0.0.1",
+    "protocols": [ "acp" ],
+    "commands": 
+    [
+        {
+			"name": "position",
+			"protocolConfig": {
+                "name": "acp",
+				"id": "0x03"
+			}
+		},
+		{
+            "name": "calibration",
+			"protocolConfig": {
+                "name": "acp",
+				"id": "0x04"
+			}
+		}
+    ]
+}
